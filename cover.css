@@ -1,0 +1,27 @@
+/* Detalhes */
+.position {
+    text-align: center;
+}
+
+.posters {
+    width: 100%;
+    text-align: center;
+}
+#img01{
+    height: 500px;
+}
+
+/* Center */
+
+.size {
+    display:inline-block;
+    width: 30%;
+    padding: 120px 30px;
+    text-align: center;
+
+}
+
+#lengh{
+    width: 250px;
+    height:325px ;
+}
